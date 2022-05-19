@@ -1,0 +1,120 @@
+
+Lmod is automatically replacing "python2/2.7.16" with "python3/3.7.0".
+
+
+Lmod is automatically replacing "intel/18.0.2" with "gcc/7.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) impi/18.0.2
+
+Package           Version
+----------------- -----------
+cycler            0.11.0
+dataclasses       0.8
+joblib            1.1.0
+kiwisolver        1.3.1
+matplotlib        3.3.4
+numpy             1.19.5
+pandas            1.1.5
+Pillow            8.4.0
+pip               21.3.1
+pyparsing         3.0.7
+python-dateutil   2.8.2
+pytz              2021.3
+scikit-learn      0.24.2
+scipy             1.5.4
+setuptools        39.0.1
+six               1.16.0
+sklearn           0.0
+threadpoolctl     3.1.0
+torch             1.7.1+cu110
+torchaudio        0.7.2
+torchvision       0.8.2+cu110
+typing_extensions 4.1.0
+2383dc_feasdnn.py:122: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  right_thresh=torch.tensor(thresh).double()
+Tesla V100-PCIE-16GB
+(6316, 9532)
+(6316, 2383)
+number of params: 284008323
+Epoch 0 | Train loss: 30079.9963
+Epoch 0 | Eval loss: 34781.6497
+Epoch 1 | Train loss: 26905.5314
+Epoch 2 | Train loss: 19961.3912
+Epoch 3 | Train loss: 11633.1416
+Epoch 4 | Train loss: 5056.3824
+Epoch 5 | Train loss: 1692.9727
+Epoch 5 | Eval loss: 373691.3785
+Epoch 6 | Train loss: 584.2249
+Epoch 7 | Train loss: 315.6162
+Epoch 8 | Train loss: 233.5867
+Epoch 9 | Train loss: 191.9555
+Epoch 10 | Train loss: 165.8296
+Epoch 10 | Eval loss: 316214.1978
+Epoch 11 | Train loss: 146.6047
+Epoch 12 | Train loss: 134.7130
+Epoch 13 | Train loss: 126.0736
+Epoch 14 | Train loss: 120.6338
+Epoch 15 | Train loss: 115.3892
+Epoch 15 | Eval loss: 286523.9132
+Epoch 16 | Train loss: 111.3552
+Epoch 17 | Train loss: 109.1278
+Epoch 18 | Train loss: 106.2798
+Epoch 19 | Train loss: 105.1519
+Epoch 20 | Train loss: 102.4634
+Epoch 20 | Eval loss: 280605.3736
+Epoch 21 | Train loss: 100.5819
+Epoch 22 | Train loss: 99.7463
+Epoch 23 | Train loss: 97.4214
+Epoch 24 | Train loss: 96.4008
+Epoch 25 | Train loss: 95.5774
+Epoch 25 | Eval loss: 313476.4627
+Epoch 26 | Train loss: 93.7105
+Epoch 27 | Train loss: 92.5794
+Epoch 28 | Train loss: 91.1699
+Epoch 29 | Train loss: 90.6863
+Epoch 30 | Train loss: 88.8060
+Epoch 30 | Eval loss: 381342.4941
+Epoch 31 | Train loss: 88.3484
+Epoch 32 | Train loss: 86.9678
+Epoch 33 | Train loss: 85.5324
+Epoch 34 | Train loss: 85.0488
+Epoch 35 | Train loss: 83.3252
+Epoch 35 | Eval loss: 526036.1960
+Epoch 36 | Train loss: 82.6270
+Epoch 37 | Train loss: 81.9576
+Epoch 38 | Train loss: 81.6901
+Epoch 39 | Train loss: 80.6810
+Epoch 40 | Train loss: 79.5558
+Training time: 98.8507
+8
+L2 mean: 0.04517895024361085 L_inf mean: 0.12031843691218005
+(6316, 9532)
+Dataset size: torch.Size([6316, 9532])
+Number of validation points::  6316
+output size torch.Size([6316, 2383])
+reshaped size (6316, 2383)
+0.0010346025
+0.0033774
+0.0648235
+11.796694
+(2383, 6316)
+<class 'numpy.ndarray'> 2383 [   0    1    2 ... 2380 2381 2382]
+(15051028,)
+-7902168000000000.0 -12924000000000.0
+(2383, 6316)
+(9532, 948) (9532, 6316)
+3954736.4086984694 3954736.4086984694
+3322367.7731464035 158180770.0 3322367.7731464035
+(2383, 6316) (2383, 6316)
+mean p_inj l2 err: 0.025602974077561996
+8282 7947
+0.00045278762346964127 0.000434472741332195
+[[False  True False]
+ [ True  True False]]
+3
+max sample pred: 145
+max line pred: 2839
+max sample true: 4
+max line true: 3819

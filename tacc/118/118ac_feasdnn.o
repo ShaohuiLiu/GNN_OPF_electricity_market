@@ -1,0 +1,148 @@
+Package           Version
+----------------- -----------
+cycler            0.11.0
+dataclasses       0.8
+joblib            1.1.0
+kiwisolver        1.3.1
+matplotlib        3.3.4
+numpy             1.19.5
+pandas            1.1.5
+Pillow            8.4.0
+pip               21.3.1
+pyparsing         3.0.7
+python-dateutil   2.8.2
+pytz              2021.3
+scikit-learn      0.24.2
+scipy             1.5.4
+setuptools        39.0.1
+six               1.16.0
+sklearn           0.0
+threadpoolctl     3.1.0
+torch             1.7.1+cu110
+torchaudio        0.7.2
+torchvision       0.8.2+cu110
+typing_extensions 4.1.0
+118ac_feasdnn.py:128: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  right_thresh=torch.tensor(thresh).double()
+Tesla V100-PCIE-16GB
+(8000, 708)
+(8000, 118)
+number of params: 5796278
+Epoch 0 | Train loss: 390.7570
+Epoch 0 | Eval loss: 896.8851
+Epoch 1 | Train loss: 387.9368
+Epoch 2 | Train loss: 384.6971
+Epoch 3 | Train loss: 380.6668
+Epoch 4 | Train loss: 375.6362
+Epoch 5 | Train loss: 369.4789
+Epoch 5 | Eval loss: 556.1403
+Epoch 6 | Train loss: 362.1478
+Epoch 7 | Train loss: 353.6363
+Epoch 8 | Train loss: 343.9625
+Epoch 9 | Train loss: 333.1765
+Epoch 10 | Train loss: 321.3782
+Epoch 10 | Eval loss: 1259.1722
+Epoch 11 | Train loss: 308.6492
+Epoch 12 | Train loss: 295.1134
+Epoch 13 | Train loss: 280.8972
+Epoch 14 | Train loss: 266.1209
+Epoch 15 | Train loss: 250.9188
+Epoch 15 | Eval loss: 1071.2546
+Epoch 16 | Train loss: 235.4597
+Epoch 17 | Train loss: 219.8500
+Epoch 18 | Train loss: 204.2218
+Epoch 19 | Train loss: 188.7389
+Epoch 20 | Train loss: 173.5241
+Epoch 20 | Eval loss: 903.9522
+Epoch 21 | Train loss: 158.6623
+Epoch 22 | Train loss: 144.3215
+Epoch 23 | Train loss: 130.5729
+Epoch 24 | Train loss: 117.5325
+Epoch 25 | Train loss: 105.2445
+Epoch 25 | Eval loss: 1748.1027
+Epoch 26 | Train loss: 93.7798
+Epoch 27 | Train loss: 83.2009
+Epoch 28 | Train loss: 73.5219
+Epoch 29 | Train loss: 64.7507
+Epoch 30 | Train loss: 56.8666
+Epoch 30 | Eval loss: 1434.2758
+Epoch 31 | Train loss: 49.8651
+Epoch 32 | Train loss: 43.7032
+Epoch 33 | Train loss: 38.3561
+Epoch 34 | Train loss: 33.7353
+Epoch 35 | Train loss: 29.7927
+Epoch 35 | Eval loss: 461.2986
+Epoch 36 | Train loss: 26.4665
+Epoch 37 | Train loss: 23.6786
+Epoch 38 | Train loss: 21.3661
+Epoch 39 | Train loss: 19.4676
+Epoch 40 | Train loss: 17.9089
+Epoch 40 | Eval loss: 372.2687
+Epoch 41 | Train loss: 16.6512
+Epoch 42 | Train loss: 15.6335
+Epoch 43 | Train loss: 14.8271
+Epoch 44 | Train loss: 14.1766
+Epoch 45 | Train loss: 13.6574
+Epoch 45 | Eval loss: 991.9701
+Epoch 46 | Train loss: 13.2494
+Epoch 47 | Train loss: 12.9110
+Epoch 48 | Train loss: 12.6368
+Epoch 49 | Train loss: 12.4150
+Epoch 50 | Train loss: 12.2358
+Epoch 50 | Eval loss: 341.1442
+Epoch 51 | Train loss: 12.0935
+Epoch 52 | Train loss: 11.9649
+Epoch 53 | Train loss: 11.8565
+Epoch 54 | Train loss: 11.7735
+Epoch 55 | Train loss: 11.6937
+Epoch 55 | Eval loss: 449.0762
+Epoch 56 | Train loss: 11.6223
+Epoch 57 | Train loss: 11.5651
+Epoch 58 | Train loss: 11.5202
+Epoch 59 | Train loss: 11.4745
+Epoch 60 | Train loss: 11.4341
+Epoch 60 | Eval loss: 288.4740
+Epoch 61 | Train loss: 11.3956
+Epoch 62 | Train loss: 11.3630
+Epoch 63 | Train loss: 11.3387
+Epoch 64 | Train loss: 11.3080
+Epoch 65 | Train loss: 11.2806
+Training time: 9.5611
+13
+L2 mean: 0.05425848338105108 L_inf mean: 0.11298091549588286
+(8000, 708)
+Dataset size: torch.Size([8000, 708])
+Number of validation points::  8000
+output size torch.Size([8000, 118])
+reshaped size (8000, 118)
+0.0030574799
+0.81199646
+0.05186249
+0.2639952
+(118, 8000)
+<class 'numpy.ndarray'> 118 [  0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17
+  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35
+  36  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53
+  54  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71
+  72  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89
+  90  91  92  93  94  95  96  97  98  99 100 101 102 103 104 105 106 107
+ 108 109 110 111 112 113 114 115 116 117]
+(944000,)
+-70090090000000.0 -2.9391174
+(118, 8000)
+(708, 1200) (708, 8000)
+2217584.9820885705 2217584.9820885705
+-498948.6497952333 34540028.0 -498948.6497952333
+(118, 8000) (118, 8000)
+mean p_inj l2 err: 0.3017897733349111
+20997 11037
+0.014110887096774194 0.007417338709677419
+17218 8436
+0.011571236559139785 0.005669354838709678
+[[False  True False]
+ [ True  True False]]
+3
+max sample pred: 12
+max line pred: 4496
+max sample true: 3
+max line true: 8000

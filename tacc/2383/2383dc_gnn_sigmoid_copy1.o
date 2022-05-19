@@ -1,0 +1,280 @@
+
+Lmod is automatically replacing "python2/2.7.16" with "python3/3.7.0".
+
+
+Lmod is automatically replacing "intel/18.0.2" with "gcc/7.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) impi/18.0.2
+
+Package           Version
+----------------- -----------
+cycler            0.11.0
+dataclasses       0.8
+joblib            1.1.0
+kiwisolver        1.3.1
+matplotlib        3.3.4
+numpy             1.19.5
+pandas            1.1.5
+Pillow            8.4.0
+pip               21.3.1
+pyparsing         3.0.7
+python-dateutil   2.8.2
+pytz              2021.3
+scikit-learn      0.24.2
+scipy             1.5.4
+setuptools        39.0.1
+six               1.16.0
+sklearn           0.0
+threadpoolctl     3.1.0
+torch             1.7.1+cu110
+torchaudio        0.7.2
+torchvision       0.8.2+cu110
+typing_extensions 4.1.0
+2383dc_gnn_sigmoid_copy1.py:200: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  right_thresh=torch.tensor(thresh).double()
+2383dc_gnn_sigmoid_copy1.py:200: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  right_thresh=torch.tensor(thresh).double()
+Tesla V100-PCIE-16GB
+(2383, 4, 6316) (2383, 6316)
+3397.03 -434.91 7750.1 -2584.8
+Training data size: (2383, 4, 5052)
+Training label size: (2383, 5052)
+<class 'numpy.ndarray'>
+(11.028229112322542+0j)
+(1.3513537483764289+0j)
+(1.4345170988237377+0j)
+9274
+GCN(
+  (conv_v2v1): Graph_convolution_v2v_W()
+  (conv_v2v2): Graph_convolution_v2v_W()
+  (conv_v2v3): Graph_convolution_v2v_W()
+  (conv_v2v4): Graph_convolution_v2v_W()
+  (conv_v2v5): Graph_convolution_v2v_W()
+  (conv_v2v6): Graph_convolution_v2v_W()
+  (lin_output): Linear(in_features=2383, out_features=2383, bias=True)
+)
+number of params: 141972597
+Number of GNN parameters: 141972597
+Number of effective GNN parameters: 74461
+Epoch 0 | Training loss: 5868.2224
+Epoch 1 | Training loss: 5718.2612
+Epoch 2 | Training loss: 5566.0511
+Epoch 3 | Training loss: 5413.2001
+Epoch 4 | Training loss: 5257.7195
+Epoch 4 | Eval loss: 6221.3897
+Epoch 5 | Training loss: 5100.0280
+Epoch 6 | Training loss: 4941.4809
+Epoch 7 | Training loss: 4780.7495
+Epoch 8 | Training loss: 4618.7361
+Epoch 9 | Training loss: 4455.0971
+Epoch 9 | Eval loss: 5260.2463
+Epoch 10 | Training loss: 4292.2044
+Epoch 11 | Training loss: 4128.1238
+Epoch 12 | Training loss: 3964.2934
+Epoch 13 | Training loss: 3800.4496
+Epoch 14 | Training loss: 3637.8692
+Epoch 14 | Eval loss: 4274.8051
+Epoch 15 | Training loss: 3476.5132
+Epoch 16 | Training loss: 3315.9100
+Epoch 17 | Training loss: 3157.8310
+Epoch 18 | Training loss: 3002.2330
+Epoch 19 | Training loss: 2848.7380
+Epoch 19 | Eval loss: 3333.7878
+Epoch 20 | Training loss: 2698.2088
+Epoch 21 | Training loss: 2550.8340
+Epoch 22 | Training loss: 2406.5748
+Epoch 23 | Training loss: 2266.5877
+Epoch 24 | Training loss: 2130.8122
+Epoch 24 | Eval loss: 2485.5313
+Epoch 25 | Training loss: 1999.0569
+Epoch 26 | Training loss: 1871.8439
+Epoch 27 | Training loss: 1749.0655
+Epoch 28 | Training loss: 1631.1120
+Epoch 29 | Training loss: 1518.2147
+Epoch 29 | Eval loss: 1758.5827
+Epoch 30 | Training loss: 1410.3530
+Epoch 31 | Training loss: 1306.6563
+Epoch 32 | Training loss: 1209.1939
+Epoch 33 | Training loss: 1116.4548
+Epoch 34 | Training loss: 1028.7846
+Epoch 34 | Eval loss: 1187.9452
+Epoch 35 | Training loss: 946.2808
+Epoch 36 | Training loss: 868.7254
+Epoch 37 | Training loss: 796.3033
+Epoch 38 | Training loss: 728.3523
+Epoch 39 | Training loss: 665.2693
+Epoch 39 | Eval loss: 767.1232
+Epoch 40 | Training loss: 606.8509
+Epoch 41 | Training loss: 552.3914
+Epoch 42 | Training loss: 502.8270
+Epoch 43 | Training loss: 456.8662
+Epoch 44 | Training loss: 414.8814
+Epoch 44 | Eval loss: 477.3298
+Epoch 45 | Training loss: 376.5808
+Epoch 46 | Training loss: 341.7204
+Epoch 47 | Training loss: 310.0364
+Epoch 48 | Training loss: 281.1355
+Epoch 49 | Training loss: 255.3461
+Epoch 49 | Eval loss: 293.0178
+Epoch 50 | Training loss: 232.0699
+Epoch 51 | Training loss: 211.0167
+Epoch 52 | Training loss: 192.3376
+Epoch 53 | Training loss: 175.5438
+Epoch 54 | Training loss: 160.5551
+Epoch 54 | Eval loss: 185.3641
+Epoch 55 | Training loss: 147.3070
+Epoch 56 | Training loss: 135.4870
+Epoch 57 | Training loss: 125.0893
+Epoch 58 | Training loss: 115.7254
+Epoch 59 | Training loss: 107.5321
+Epoch 59 | Eval loss: 124.7674
+Epoch 60 | Training loss: 100.2615
+Epoch 61 | Training loss: 93.8936
+Epoch 62 | Training loss: 88.2141
+Epoch 63 | Training loss: 83.2025
+Epoch 64 | Training loss: 78.7899
+Epoch 64 | Eval loss: 90.9694
+Epoch 65 | Training loss: 74.8230
+Epoch 66 | Training loss: 71.4098
+Epoch 67 | Training loss: 68.2937
+Epoch 68 | Training loss: 65.5764
+Epoch 69 | Training loss: 63.1281
+Epoch 69 | Eval loss: 73.3294
+Epoch 70 | Training loss: 60.9010
+Epoch 71 | Training loss: 58.9618
+Epoch 72 | Training loss: 57.2070
+Epoch 73 | Training loss: 55.5632
+Epoch 74 | Training loss: 54.1633
+Epoch 74 | Eval loss: 63.4344
+Epoch 75 | Training loss: 52.8413
+Epoch 76 | Training loss: 51.7052
+Epoch 77 | Training loss: 50.5644
+Epoch 78 | Training loss: 49.5750
+Epoch 79 | Training loss: 48.6979
+Epoch 79 | Eval loss: 56.1635
+Epoch 80 | Training loss: 47.8338
+Epoch 81 | Training loss: 47.0290
+Epoch 82 | Training loss: 46.3531
+Epoch 83 | Training loss: 45.6660
+Epoch 84 | Training loss: 44.9679
+Epoch 84 | Eval loss: 51.9137
+Epoch 85 | Training loss: 44.4359
+Epoch 86 | Training loss: 43.9423
+Epoch 87 | Training loss: 43.4110
+Epoch 88 | Training loss: 42.9582
+Epoch 89 | Training loss: 42.4409
+Epoch 89 | Eval loss: 48.5689
+Epoch 90 | Training loss: 42.0506
+Epoch 91 | Training loss: 41.6390
+Epoch 92 | Training loss: 41.2557
+Epoch 93 | Training loss: 40.9181
+Epoch 94 | Training loss: 40.6014
+Epoch 94 | Eval loss: 46.7069
+Epoch 95 | Training loss: 40.3128
+Epoch 96 | Training loss: 40.0053
+Epoch 97 | Training loss: 39.7210
+Epoch 98 | Training loss: 39.4843
+Epoch 99 | Training loss: 39.2775
+Epoch 99 | Eval loss: 45.6236
+Epoch 100 | Training loss: 38.9625
+Epoch 101 | Training loss: 38.7806
+Epoch 102 | Training loss: 38.5766
+Epoch 103 | Training loss: 38.4343
+Epoch 104 | Training loss: 38.1955
+Epoch 104 | Eval loss: 45.1540
+Epoch 105 | Training loss: 38.0431
+Epoch 106 | Training loss: 37.9282
+Epoch 107 | Training loss: 37.7480
+Epoch 108 | Training loss: 37.6014
+Epoch 109 | Training loss: 37.4647
+Epoch 109 | Eval loss: 42.8962
+Epoch 110 | Training loss: 37.3585
+Epoch 111 | Training loss: 37.2104
+Epoch 112 | Training loss: 37.1164
+Epoch 113 | Training loss: 36.9602
+Epoch 114 | Training loss: 36.9135
+Epoch 114 | Eval loss: 41.9386
+Epoch 115 | Training loss: 36.8269
+Epoch 116 | Training loss: 36.7359
+Epoch 117 | Training loss: 36.6366
+Epoch 118 | Training loss: 36.5634
+Epoch 119 | Training loss: 36.4858
+Epoch 119 | Eval loss: 42.0283
+Epoch 120 | Training loss: 36.3852
+Epoch 121 | Training loss: 36.3001
+Epoch 122 | Training loss: 36.3066
+Epoch 123 | Training loss: 36.2249
+Epoch 124 | Training loss: 36.2032
+Epoch 124 | Eval loss: 41.3433
+Epoch 125 | Training loss: 36.1554
+Epoch 126 | Training loss: 36.0841
+Epoch 127 | Training loss: 36.0376
+Epoch 128 | Training loss: 35.9574
+Epoch 129 | Training loss: 35.9506
+Epoch 129 | Eval loss: 42.0438
+Epoch 130 | Training loss: 35.8814
+Epoch 131 | Training loss: 35.8804
+Epoch 132 | Training loss: 35.8513
+Epoch 133 | Training loss: 35.8628
+Epoch 134 | Training loss: 35.7896
+Epoch 134 | Eval loss: 40.8927
+Epoch 135 | Training loss: 35.7485
+Epoch 136 | Training loss: 35.7247
+Epoch 137 | Training loss: 35.7524
+Epoch 138 | Training loss: 35.6510
+Epoch 139 | Training loss: 35.6664
+Epoch 139 | Eval loss: 41.0389
+Epoch 140 | Training loss: 35.6372
+Epoch 141 | Training loss: 35.6646
+Epoch 142 | Training loss: 35.6221
+Epoch 143 | Training loss: 35.5698
+Epoch 144 | Training loss: 35.5774
+Epoch 144 | Eval loss: 40.7166
+Epoch 145 | Training loss: 35.5627
+Epoch 146 | Training loss: 35.5685
+Epoch 147 | Training loss: 35.5413
+Epoch 148 | Training loss: 35.5186
+Epoch 149 | Training loss: 35.5088
+Training time:823.8630s
+30
+4
+torch.Size([240, 1, 2383]) torch.Size([240, 1, 2383])
+Validation dataset size: torch.Size([1264, 4, 2383])
+Number of validation set:  2000
+(2383, 1264)
+L2 mean: 0.06758473086612447 L_inf mean: 0.18751283105298214
+1264 L2 mean: 0.06758473086612447 1264 L_inf mean: 0.18751283105298214
+std: 0.03461897731132282
+0.021552288555069368 0.1330827682885933
+0.021552288555069368 0.1330827682885933
+(2383,)
+0.02154437800439248
+(2383, 6316)
+<class 'numpy.ndarray'> 2383 [   0    1    2 ... 2380 2381 2382]
+(2383, 4, 6316)
+Dataset size: torch.Size([6316, 4, 2383])
+Number of validation points::  6316
+output size (2383, 6316)
+reshaped size (2383, 6316)
+76.18355560302734
+0.0033774
+(15051028,)
+-6347130737304.6875 -12924000000000.0
+(2383, 6316)
+(1264, 4, 2383) (6316, 4, 2383)
+(2383, 6316)
+434.91 -9.7677
+(2383, 6316) (2383, 6316)
+mean p_inj l2 err: 0.02852611965205519
+8972 7947
+0.0004905108135437843 0.000434472741332195
+85.74190562341789 31.54721560771202
+0.29020570576389015 0.1914616483795499
+4291 29
+0.00023459450522919954 1.5854674089132572e-06
+max sample pred: 6
+max line pred: 3820
+max sample true: 4
+max line true: 3819

@@ -1,0 +1,160 @@
+
+Lmod is automatically replacing "python2/2.7.16" with "python3/3.7.0".
+
+
+Lmod is automatically replacing "intel/18.0.2" with "gcc/7.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) impi/18.0.2
+
+Package           Version
+----------------- -----------
+cycler            0.11.0
+dataclasses       0.8
+joblib            1.1.0
+kiwisolver        1.3.1
+matplotlib        3.3.4
+numpy             1.19.5
+pandas            1.1.5
+Pillow            8.4.0
+pip               21.3.1
+pyparsing         3.0.7
+python-dateutil   2.8.2
+pytz              2021.3
+scikit-learn      0.24.2
+scipy             1.5.4
+setuptools        39.0.1
+six               1.16.0
+sklearn           0.0
+threadpoolctl     3.1.0
+torch             1.7.1+cu110
+torchaudio        0.7.2
+torchvision       0.8.2+cu110
+typing_extensions 4.1.0
+2383dc_gnn_sigmoid.py:200: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  right_thresh=torch.tensor(thresh).double()
+2383dc_gnn_sigmoid.py:200: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  right_thresh=torch.tensor(thresh).double()
+Tesla V100-PCIE-16GB
+(2383, 4, 6316) (2383, 6316)
+3397.03 -434.91 7750.1 -2584.8
+Training data size: (2383, 4, 5052)
+Training label size: (2383, 5052)
+<class 'numpy.ndarray'>
+(11.028229112322542+0j)
+(1.3513537483764289+0j)
+(1.4345170988237377+0j)
+9274
+GCN(
+  (conv_v2v1): Graph_convolution_v2v_W()
+  (conv_v2v2): Graph_convolution_v2v_W()
+  (conv_v2v3): Graph_convolution_v2v_W()
+  (conv_v2v4): Graph_convolution_v2v_W()
+  (conv_v2v5): Graph_convolution_v2v_W()
+  (conv_v2v6): Graph_convolution_v2v_W()
+  (lin_output): Linear(in_features=2383, out_features=2383, bias=True)
+)
+number of params: 141972597
+Number of GNN parameters: 141972597
+Number of effective GNN parameters: 74461
+Epoch 0 | Training loss: 5935.7870
+Epoch 1 | Training loss: 5935.3944
+Epoch 2 | Training loss: 5934.3328
+Epoch 3 | Training loss: 5934.5724
+Epoch 4 | Training loss: 5934.9026
+Epoch 4 | Eval loss: 7146.2848
+Epoch 5 | Training loss: 5934.3886
+Epoch 6 | Training loss: 5934.8127
+Epoch 7 | Training loss: 5934.9371
+Epoch 8 | Training loss: 5934.2248
+Epoch 9 | Training loss: 5934.2355
+Epoch 9 | Eval loss: 7144.8506
+Epoch 10 | Training loss: 5934.7008
+Epoch 11 | Training loss: 5934.6394
+Epoch 12 | Training loss: 5934.1350
+Epoch 13 | Training loss: 5934.2703
+Epoch 14 | Training loss: 5934.0250
+Epoch 14 | Eval loss: 7150.1264
+Epoch 15 | Training loss: 5934.0848
+Epoch 16 | Training loss: 5934.3374
+Epoch 17 | Training loss: 5933.3935
+Epoch 18 | Training loss: 5933.7359
+Epoch 19 | Training loss: 5932.9212
+Epoch 19 | Eval loss: 7143.7604
+Epoch 20 | Training loss: 5933.7180
+Epoch 21 | Training loss: 5934.2110
+Epoch 22 | Training loss: 5933.8202
+Epoch 23 | Training loss: 5932.5274
+Epoch 24 | Training loss: 5933.3850
+Epoch 24 | Eval loss: 7155.7958
+Epoch 25 | Training loss: 5932.9168
+Epoch 26 | Training loss: 5933.6282
+Epoch 27 | Training loss: 5933.6810
+Epoch 28 | Training loss: 5933.3424
+Epoch 29 | Training loss: 5933.3893
+Epoch 29 | Eval loss: 7153.9487
+Epoch 30 | Training loss: 5933.6752
+Epoch 31 | Training loss: 5933.6095
+Epoch 32 | Training loss: 5932.7433
+Epoch 33 | Training loss: 5932.4392
+Epoch 34 | Training loss: 5932.8467
+Epoch 34 | Eval loss: 7149.4542
+Epoch 35 | Training loss: 5932.8923
+Epoch 36 | Training loss: 5932.5797
+Epoch 37 | Training loss: 5932.1551
+Epoch 38 | Training loss: 5933.0212
+Epoch 39 | Training loss: 5933.3246
+Epoch 39 | Eval loss: 7142.4814
+Epoch 40 | Training loss: 5932.4234
+Epoch 41 | Training loss: 5932.5175
+Epoch 42 | Training loss: 5932.5765
+Epoch 43 | Training loss: 5931.9494
+Epoch 44 | Training loss: 5931.6170
+Epoch 44 | Eval loss: 7147.3414
+Epoch 45 | Training loss: 5931.9168
+Epoch 46 | Training loss: 5932.7251
+Epoch 47 | Training loss: 5932.3905
+Epoch 48 | Training loss: 5932.3257
+Epoch 49 | Training loss: 5932.3088
+Training time:274.3912s
+10
+4
+torch.Size([240, 1, 2383]) torch.Size([240, 1, 2383])
+Validation dataset size: torch.Size([1264, 4, 2383])
+Number of validation set:  2000
+(2383, 1264)
+L2 mean: 0.9997163415596693 L_inf mean: 0.9998858631023074
+1264 L2 mean: 0.9997163415596693 1264 L_inf mean: 0.9998858631023074
+std: 1.6134120092518983e-05
+0.99968984551344 0.9997419190953235
+0.99968984551344 0.9997419190953235
+(2383,)
+0.9997205065242338
+(2383, 6316)
+<class 'numpy.ndarray'> 2383 [   0    1    2 ... 2380 2381 2382]
+(2383, 4, 6316)
+Dataset size: torch.Size([6316, 4, 2383])
+Number of validation points::  6316
+output size (2383, 6316)
+reshaped size (2383, 6316)
+0.47596320509910583
+0.0033774
+(15051028,)
+-2582533955.5740356 -12924000000000.0
+(2383, 6316)
+(1264, 4, 2383) (6316, 4, 2383)
+(2383, 6316)
+434.91 -9.7677
+(2383, 6316) (2383, 6316)
+mean p_inj l2 err: 0.9142840676563004
+429784 7947
+0.02349684568525432 0.000434472741332195
+1237.4437805219297 31.54721560771202
+2.0325579460264196 0.1914616483795499
+329812 29
+0.018031247485120663 1.5854674089132572e-06
+max sample pred: 76
+max line pred: 6316
+max sample true: 4
+max line true: 3819

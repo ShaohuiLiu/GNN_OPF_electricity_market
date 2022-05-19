@@ -1,0 +1,186 @@
+
+Lmod is automatically replacing "python2/2.7.16" with "python3/3.7.0".
+
+
+Lmod is automatically replacing "intel/18.0.2" with "gcc/7.3.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) impi/18.0.2
+
+Package           Version
+----------------- -----------
+cycler            0.11.0
+dataclasses       0.8
+joblib            1.1.0
+kiwisolver        1.3.1
+matplotlib        3.3.4
+numpy             1.19.5
+pandas            1.1.5
+Pillow            8.4.0
+pip               21.3.1
+pyparsing         3.0.7
+python-dateutil   2.8.2
+pytz              2021.3
+scikit-learn      0.24.2
+scipy             1.5.4
+setuptools        39.0.1
+six               1.16.0
+sklearn           0.0
+threadpoolctl     3.1.0
+torch             1.7.1+cu110
+torchaudio        0.7.2
+torchvision       0.8.2+cu110
+typing_extensions 4.1.0
+118dc_feasdnn.py:122: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  right_thresh=torch.tensor(thresh).double()
+Tesla V100-PCIE-16GB
+(16000, 472)
+(16000, 118)
+number of params: 5657038
+Epoch 0 | Train loss: 720.3808
+Epoch 0 | Eval loss: 694.4085
+Epoch 1 | Train loss: 648.0779
+Epoch 2 | Train loss: 515.7647
+Epoch 3 | Train loss: 352.7918
+Epoch 4 | Train loss: 202.5090
+Epoch 5 | Train loss: 96.1782
+Epoch 5 | Eval loss: 60.6605
+Epoch 6 | Train loss: 39.6154
+Epoch 7 | Train loss: 17.2177
+Epoch 8 | Train loss: 10.2230
+Epoch 9 | Train loss: 8.1019
+Epoch 10 | Train loss: 7.3010
+Epoch 10 | Eval loss: 8.8938
+Epoch 11 | Train loss: 6.8483
+Epoch 12 | Train loss: 6.5764
+Epoch 13 | Train loss: 6.4052
+Epoch 14 | Train loss: 6.2908
+Epoch 15 | Train loss: 6.2215
+Epoch 15 | Eval loss: 8.1813
+Epoch 16 | Train loss: 6.1574
+Epoch 17 | Train loss: 6.1120
+Epoch 18 | Train loss: 6.0758
+Epoch 19 | Train loss: 6.0332
+Epoch 20 | Train loss: 6.0290
+Epoch 20 | Eval loss: 8.1896
+Epoch 21 | Train loss: 5.9967
+Epoch 22 | Train loss: 5.9493
+Epoch 23 | Train loss: 5.9681
+Epoch 24 | Train loss: 5.9373
+Epoch 25 | Train loss: 5.9351
+Epoch 25 | Eval loss: 8.0686
+Epoch 26 | Train loss: 5.9002
+Epoch 27 | Train loss: 5.8811
+Epoch 28 | Train loss: 5.8823
+Epoch 29 | Train loss: 5.8539
+Epoch 30 | Train loss: 5.8490
+Epoch 30 | Eval loss: 7.8916
+Epoch 31 | Train loss: 5.8536
+Epoch 32 | Train loss: 5.8427
+Epoch 33 | Train loss: 5.8248
+Epoch 34 | Train loss: 5.8135
+Epoch 35 | Train loss: 5.8151
+Epoch 35 | Eval loss: 7.8955
+Epoch 36 | Train loss: 5.8016
+Epoch 37 | Train loss: 5.7736
+Epoch 38 | Train loss: 5.7659
+Epoch 39 | Train loss: 5.7612
+Epoch 40 | Train loss: 5.7673
+Epoch 40 | Eval loss: 7.8637
+Epoch 41 | Train loss: 5.7684
+Epoch 42 | Train loss: 5.7536
+Epoch 43 | Train loss: 5.7511
+Epoch 44 | Train loss: 5.7601
+Epoch 45 | Train loss: 5.7507
+Epoch 45 | Eval loss: 7.8085
+Epoch 46 | Train loss: 5.7405
+Epoch 47 | Train loss: 5.7389
+Epoch 48 | Train loss: 5.7518
+Epoch 49 | Train loss: 5.7169
+Epoch 50 | Train loss: 5.7273
+Epoch 50 | Eval loss: 7.7763
+Epoch 51 | Train loss: 5.7020
+Epoch 52 | Train loss: 5.7044
+Epoch 53 | Train loss: 5.7029
+Epoch 54 | Train loss: 5.7056
+Epoch 55 | Train loss: 5.6903
+Epoch 55 | Eval loss: 7.7304
+Epoch 56 | Train loss: 5.7029
+Epoch 57 | Train loss: 5.6928
+Epoch 58 | Train loss: 5.6893
+Epoch 59 | Train loss: 5.6873
+Epoch 60 | Train loss: 5.6845
+Epoch 60 | Eval loss: 7.7753
+Epoch 61 | Train loss: 5.6959
+Epoch 62 | Train loss: 5.6791
+Epoch 63 | Train loss: 5.6709
+Epoch 64 | Train loss: 5.6722
+Epoch 65 | Train loss: 5.6673
+Epoch 65 | Eval loss: 7.7442
+Epoch 66 | Train loss: 5.6557
+Epoch 67 | Train loss: 5.6669
+Epoch 68 | Train loss: 5.6676
+Epoch 69 | Train loss: 5.6713
+Epoch 70 | Train loss: 5.6552
+Epoch 70 | Eval loss: 7.6941
+Epoch 71 | Train loss: 5.6587
+Epoch 72 | Train loss: 5.6650
+Epoch 73 | Train loss: 5.6517
+Epoch 74 | Train loss: 5.6467
+Epoch 75 | Train loss: 5.6555
+Epoch 75 | Eval loss: 7.7462
+Epoch 76 | Train loss: 5.6445
+Epoch 77 | Train loss: 5.6486
+Epoch 78 | Train loss: 5.6593
+Epoch 79 | Train loss: 5.6429
+Epoch 80 | Train loss: 5.6490
+Epoch 80 | Eval loss: 7.6801
+Epoch 81 | Train loss: 5.6471
+Epoch 82 | Train loss: 5.6476
+Epoch 83 | Train loss: 5.6295
+Epoch 84 | Train loss: 5.6358
+Epoch 85 | Train loss: 5.6386
+Epoch 85 | Eval loss: 7.6573
+Epoch 86 | Train loss: 5.6393
+Epoch 87 | Train loss: 5.6295
+Epoch 88 | Train loss: 5.6343
+Epoch 89 | Train loss: 5.6491
+Epoch 90 | Train loss: 5.6256
+Training time: 45.5032
+18
+L2 mean: 0.04417622125073475 L_inf mean: 0.0485537463799119
+(16000, 472)
+Dataset size: torch.Size([16000, 472])
+Number of validation points::  16000
+output size torch.Size([16000, 118])
+reshaped size (16000, 118)
+0.00052547455
+0.00799942
+0.0016075819
+0.0032806674
+(118, 16000)
+<class 'numpy.ndarray'> 118 [  0   1   2   3   4   5   6   7   8   9  10  11  12  13  14  15  16  17
+  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32  33  34  35
+  36  37  38  39  40  41  42  43  44  45  46  47  48  49  50  51  52  53
+  54  55  56  57  58  59  60  61  62  63  64  65  66  67  68  69  70  71
+  72  73  74  75  76  77  78  79  80  81  82  83  84  85  86  87  88  89
+  90  91  92  93  94  95  96  97  98  99 100 101 102 103 104 105 106 107
+ 108 109 110 111 112 113 114 115 116 117]
+(1888000,)
+-9693937000000.0 -19.686697
+(118, 16000)
+(472, 2400) (472, 16000)
+2060872.9686069917 2060872.9686069917
+-2300463.8127161446 69129736.0 -2300463.8127161446
+(118, 16000) (118, 16000)
+mean p_inj l2 err: 0.21063957833451136
+53279 31607
+0.017902889784946238 0.010620631720430108
+[[False  True False]
+ [ True  True False]]
+3
+max sample pred: 17
+max line pred: 9742
+max sample true: 6
+max line true: 16000

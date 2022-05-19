@@ -1,0 +1,135 @@
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.0463762127 	 L_inf mean: 0.0570454886 
+Voltage L2 mean: 0.0038014202 	 L_inf mean: 0.0145261818 
+L2 mean: 0.0463762127 	 L_inf mean: 0.0570454886 
+Profit L2 mean: 0.0549254328 
+Mean p_inj L2 err: 0.0877667302 
+f_binary_feas: 0.0091005376 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 0.9621473806 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.0071602151 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.0877667302 
+hard violation rate: 0.0091344086 
+soft violation rate: 0.0065752688 
+S violation level: mean: 0.0028874701 	 median 0.0000000000 	 max: 0.9737664414 	 std: 0.0390700108 	 p99 0.0000000000 
+f violation level: mean: 0.0029707989 	 median 0.0000000000 	 max: 0.9621473806 	 std: 0.0388937209 	 p99 0.0000000000 
+max_violdation_level: 0.9737664414 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.0468058234 	 L_inf mean: 0.0555312746 
+Voltage L2 mean: 0.0029327261 	 L_inf mean: 0.0135194564 
+L2 mean: 0.0468058234 	 L_inf mean: 0.0555312746 
+Profit L2 mean: 0.0559749127 
+Mean p_inj L2 err: 0.0911870428 
+f_binary_feas: 0.0091306452 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 0.9653395402 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.0071430108 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.0911870428 
+hard violation rate: 0.0091844086 
+soft violation rate: 0.0065521505 
+S violation level: mean: 0.0028154391 	 median 0.0000000000 	 max: 0.9753594041 	 std: 0.0380943738 	 p99 0.0000000000 
+f violation level: mean: 0.0029607215 	 median 0.0000000000 	 max: 0.9653395402 	 std: 0.0387760783 	 p99 0.0000000000 
+max_violdation_level: 0.9753594041 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.0430202517 	 L_inf mean: 0.0520892652 
+Voltage L2 mean: 0.0079136437 	 L_inf mean: 0.0618006288 
+L2 mean: 0.0430202517 	 L_inf mean: 0.0520892652 
+Profit L2 mean: 0.0518529797 
+Mean p_inj L2 err: 0.0861973539 
+f_binary_feas: 0.0089811828 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 0.9574493973 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.0070725806 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.0861973539 
+hard violation rate: 0.0097564516 
+soft violation rate: 0.0065107527 
+S violation level: mean: 0.0064696744 	 median 0.0000000000 	 max: 1.7217959971 	 std: 0.0853301446 	 p99 0.0000000000 
+f violation level: mean: 0.0029391586 	 median 0.0000000000 	 max: 0.9574493973 	 std: 0.0386963828 	 p99 0.0000000000 
+max_violdation_level: 1.7217959971 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.0415481521 	 L_inf mean: 0.0540091521 
+Voltage L2 mean: 0.0049464016 	 L_inf mean: 0.0157817876 
+L2 mean: 0.0415481521 	 L_inf mean: 0.0540091521 
+Profit L2 mean: 0.0493217050 
+Mean p_inj L2 err: 0.4897374615 
+f_binary_feas: 0.0191064516 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 1.1786175646 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.0161284946 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.4897374615 
+hard violation rate: 0.0185139785 
+soft violation rate: 0.0132537634 
+S violation level: mean: 0.0059048324 	 median 0.0000000000 	 max: 1.0793660178 	 std: 0.0562454744 	 p99 0.2211208078 
+f violation level: mean: 0.0080473323 	 median 0.0000000000 	 max: 1.1786175646 	 std: 0.0688818865 	 p99 0.3700257861 
+max_violdation_level: 1.0793660178 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.8267254157 	 L_inf mean: 0.8804503086 
+Voltage L2 mean: 0.0682927845 	 L_inf mean: 0.0915770099 
+L2 mean: 0.8267254157 	 L_inf mean: 0.8804503086 
+Profit L2 mean: 0.9865128815 
+Mean p_inj L2 err: 0.9946607459 
+f_binary_feas: 0.1438193548 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 4.0777901828 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.1183220430 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.9946607459 
+hard violation rate: 0.1054274194 
+soft violation rate: 0.0809005376 
+S violation level: mean: 0.0803805736 	 median 0.0000000000 	 max: 2.4751675013 	 std: 0.3310395603 	 p99 2.1715317859 
+f violation level: mean: 0.1168612126 	 median 0.0000000000 	 max: 4.0777901828 	 std: 0.4413095736 	 p99 2.1051980332 
+max_violdation_level: 2.4751675013 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.0417978819 	 L_inf mean: 0.0518304200 
+Voltage L2 mean: 0.0062847980 	 L_inf mean: 0.0165775074 
+L2 mean: 0.0417978819 	 L_inf mean: 0.0518304200 
+Profit L2 mean: 0.0499873801 
+Mean p_inj L2 err: 0.0848097472 
+f_binary_feas: 0.0086860215 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 0.9553843417 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.0068833333 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.0848097472 
+hard violation rate: 0.0082510753 
+soft violation rate: 0.0060543011 
+S violation level: mean: 0.0027065847 	 median 0.0000000000 	 max: 1.0263767724 	 std: 0.0378242098 	 p99 0.0000000000 
+f violation level: mean: 0.0028959677 	 median 0.0000000000 	 max: 0.9553843417 	 std: 0.0385773804 	 p99 0.0000000000 
+max_violdation_level: 1.0263767724 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.8267322605 	 L_inf mean: 0.8804447928 
+Voltage L2 mean: 0.0683345433 	 L_inf mean: 0.0918067839 
+L2 mean: 0.8267322605 	 L_inf mean: 0.8804447928 
+Profit L2 mean: 0.9865190879 
+Mean p_inj L2 err: 0.9946650025 
+f_binary_feas: 0.1438193548 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 4.0778723582 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.1183247312 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.9946650025 
+hard violation rate: 0.1059978495 
+soft violation rate: 0.0815924731 
+S violation level: mean: 0.0802898190 	 median 0.0000000000 	 max: 2.4695503079 	 std: 0.3302920588 	 p99 2.1666701280 
+f violation level: mean: 0.1168672653 	 median 0.0000000000 	 max: 4.0778723582 	 std: 0.4413282915 	 p99 2.1053989170 
+max_violdation_level: 2.4695503079 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.8267644923 	 L_inf mean: 0.8805360101 
+Voltage L2 mean: 0.0684713281 	 L_inf mean: 0.0913083551 
+L2 mean: 0.8267644923 	 L_inf mean: 0.8805360101 
+Profit L2 mean: 0.9865659327 
+Mean p_inj L2 err: 0.9946642986 
+f_binary_feas: 0.1438145161 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 4.0776650299 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.1182967742 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.9946642986 
+hard violation rate: 0.1075559140 
+soft violation rate: 0.0820365591 
+S violation level: mean: 0.0805848400 	 median 0.0000000000 	 max: 2.4689124850 	 std: 0.3305946295 	 p99 2.1658026593 
+f violation level: mean: 0.1168600536 	 median 0.0000000000 	 max: 4.0776650299 	 std: 0.4413188665 	 p99 2.1054445776 
+max_violdation_level: 2.4689124850 
+Tesla V100-PCIE-16GB
+Price L2 mean: 0.0449447983 	 L_inf mean: 0.0548240541 
+Voltage L2 mean: 0.1077582987 	 L_inf mean: 0.1308455181 
+L2 mean: 0.0449447983 	 L_inf mean: 0.0548240541 
+Profit L2 mean: 0.0539772803 
+Mean p_inj L2 err: 0.0871154214 
+f_binary_feas: 0.0090768817 	 f_binary0_feas: 0.0071688172 
+f_err_est_max: 0.9581842013 	 f_err_true_max: 0.2642934288 
+f_binary_soft_feas: 0.0071349462 	 f_binary0_soft_feas: 0.0056188172 
+Mean p_inj L2 err: 0.0871154214 
+hard violation rate: 0.0055553763 
+soft violation rate: 0.0041290323 
+S violation level: mean: 0.0014376715 	 median 0.0000000000 	 max: 0.6735524109 	 std: 0.0231852331 	 p99 0.0000000000 
+f violation level: mean: 0.0029567077 	 median 0.0000000000 	 max: 0.9581842013 	 std: 0.0387731758 	 p99 0.0000000000 
+max_violdation_level: 0.6735524109 

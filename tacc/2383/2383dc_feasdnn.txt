@@ -1,0 +1,392 @@
+Tesla V100-PCIE-16GB
+L2 mean:0.0439154544	 L2_std:0.0234734977	 L_inf mean:0.1124656869	 p5:0.0167113900	 p95:0.0902780157
+p_g err: 0.0250223056
+f_binary: 7827 	 f_binary0: 7947 
+f_binary_feas: 0.0004279122 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2779 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001519315 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0444472938	 L2_std:0.0216169073	 L_inf mean:0.1203408750	 p5:0.0186732412	 p95:0.0873451464
+p_g err: 0.0247463521
+f_binary: 8290 	 f_binary0: 7947 
+f_binary_feas: 0.0004532250 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3177 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001736907 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.7253934467	 L2_std:0.0780464093	 L_inf mean:0.9101021198	 p5:0.6058252245	 p95:0.8505302787
+p_g err: 0.5309279990
+f_binary: 57184 	 f_binary0: 7947 
+f_binary_feas: 0.0031263230 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 36170 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0019774606 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0447644324	 L2_std:0.0197611713	 L_inf mean:0.1159299208	 p5:0.0196650688	 p95:0.0832466088
+p_g err: 0.0251796932
+f_binary: 7764 	 f_binary0: 7947 
+f_binary_feas: 0.0004244679 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2688 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001469564 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0460923869	 L2_std:0.0248565048	 L_inf mean:0.1211592598	 p5:0.0189252268	 p95:0.0933260996
+p_g err: 0.0267706262
+f_binary: 8150 	 f_binary0: 7947 
+f_binary_feas: 0.0004455710 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2892 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001581094 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0458697392	 L2_std:0.0247077575	 L_inf mean:0.1213165328	 p5:0.0185089190	 p95:0.0928907309
+p_g err: 0.0270201448
+f_binary: 7714 	 f_binary0: 7947 
+f_binary_feas: 0.0004217343 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2679 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001464644 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.1621290645	 L2_std:0.0428453185	 L_inf mean:0.5660698536	 p5:0.0957290113	 p95:0.2360138021
+p_g err: 0.0763006989
+f_binary: 14173 	 f_binary0: 7947 
+f_binary_feas: 0.0007748562 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 8788 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0004804513 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0490910055	 L2_std:0.0384734578	 L_inf mean:0.1300877681	 p5:0.0200181897	 p95:0.0944403548
+p_g err: 0.0294719644
+f_binary: 9574 	 f_binary0: 7947 
+f_binary_feas: 0.0005234229 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 4182 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002286353 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0459693762	 L2_std:0.0222867641	 L_inf mean:0.1226001698	 p5:0.0196953171	 p95:0.0891902577
+p_g err: 0.0264224749
+f_binary: 9304 	 f_binary0: 7947 
+f_binary_feas: 0.0005086617 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3934 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002150769 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0463174079	 L2_std:0.0229497943	 L_inf mean:0.1259324800	 p5:0.0195960925	 p95:0.0930034932
+p_g err: 0.0279196559
+f_binary: 7508 	 f_binary0: 7947 
+f_binary_feas: 0.0004104720 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2476 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001353661 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0450641197	 L2_std:0.0216032224	 L_inf mean:0.1196180665	 p5:0.0192246307	 p95:0.0878543820
+p_g err: 0.0269927150
+f_binary: 8393 	 f_binary0: 7947 
+f_binary_feas: 0.0004588561 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3170 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001733080 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0559784839	 L2_std:0.0221957980	 L_inf mean:0.2312805991	 p5:0.0300648089	 p95:0.1024230551
+p_g err: 0.0288579244
+f_binary: 7314 	 f_binary0: 7947 
+f_binary_feas: 0.0003998658 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2461 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001345460 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0552689745	 L2_std:0.1053251556	 L_inf mean:0.1575121070	 p5:0.0184513584	 p95:0.1030339085
+p_g err: 0.0304950231
+f_binary: 9945 	 f_binary0: 7947 
+f_binary_feas: 0.0005437060 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 4243 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002319703 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0480206935	 L2_std:0.0313292620	 L_inf mean:0.1274127105	 p5:0.0185040965	 p95:0.0995953161
+p_g err: 0.0287789814
+f_binary: 7553 	 f_binary0: 7947 
+f_binary_feas: 0.0004129323 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2676 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001463004 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0477459546	 L2_std:0.0376771423	 L_inf mean:0.1289648397	 p5:0.0192424431	 p95:0.0915288210
+p_g err: 0.0281368879
+f_binary: 8291 	 f_binary0: 7947 
+f_binary_feas: 0.0004532797 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3067 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001676768 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0444778313	 L2_std:0.0211399488	 L_inf mean:0.1142719668	 p5:0.0187780106	 p95:0.0869401537
+p_g err: 0.0260656520
+f_binary: 8863 	 f_binary0: 7947 
+f_binary_feas: 0.0004845516 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3484 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001904748 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.4719359376	 L2_std:0.1906234400	 L_inf mean:0.7897596009	 p5:0.3313703224	 p95:0.5995006561
+p_g err: 0.2739715882
+f_binary: 8588 	 f_binary0: 7947 
+f_binary_feas: 0.0004695170 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 6165 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0003370485 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.7842462030	 L2_std:0.1280494340	 L_inf mean:0.9366175447	 p5:0.5947216779	 p95:0.9956731379
+p_g err: 0.6117067803
+f_binary: 161309 	 f_binary0: 7947 
+f_binary_feas: 0.0088189711 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 119338 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0065243624 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0490266697	 L2_std:0.0332058140	 L_inf mean:0.1265423677	 p5:0.0199001824	 p95:0.0976471800
+p_g err: 0.0296119448
+f_binary: 8701 	 f_binary0: 7947 
+f_binary_feas: 0.0004756949 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3459 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001891080 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0463368615	 L2_std:0.0220202839	 L_inf mean:0.1207869846	 p5:0.0193934624	 p95:0.0866446909
+p_g err: 0.0293860982
+f_binary: 7415 	 f_binary0: 7947 
+f_binary_feas: 0.0004053876 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2617 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001430748 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0467604243	 L2_std:0.0214415432	 L_inf mean:0.1262005952	 p5:0.0215058236	 p95:0.0927093968
+p_g err: 0.0266428164
+f_binary: 8210 	 f_binary0: 7947 
+f_binary_feas: 0.0004488513 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3043 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001663647 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0473377638	 L2_std:0.0229788865	 L_inf mean:0.1202900385	 p5:0.0196083816	 p95:0.0969998561
+p_g err: 0.0266196368
+f_binary: 8840 	 f_binary0: 7947 
+f_binary_feas: 0.0004832942 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3421 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001870305 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0473188842	 L2_std:0.0273786895	 L_inf mean:0.1285917767	 p5:0.0198218444	 p95:0.0990628015
+p_g err: 0.0282189988
+f_binary: 7512 	 f_binary0: 7947 
+f_binary_feas: 0.0004106907 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2502 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001367876 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.2973206427	 L2_std:0.0506429336	 L_inf mean:0.6632901042	 p5:0.2109622911	 p95:0.3772489667
+p_g err: 0.1583907820
+f_binary: 5161 	 f_binary0: 7947 
+f_binary_feas: 0.0002821585 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 1672 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0000914104 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0463212307	 L2_std:0.0229889653	 L_inf mean:0.1206881423	 p5:0.0198960229	 p95:0.0951020140
+p_g err: 0.0264867677
+f_binary: 8092 	 f_binary0: 7947 
+f_binary_feas: 0.0004424001 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2846 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001555945 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0500032332	 L2_std:0.0502014797	 L_inf mean:0.1347489922	 p5:0.0189077645	 p95:0.0970792007
+p_g err: 0.0279908681
+f_binary: 8883 	 f_binary0: 7947 
+f_binary_feas: 0.0004856451 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3533 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001931537 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.1578956167	 L2_std:0.0383138735	 L_inf mean:0.5570945799	 p5:0.0965136379	 p95:0.2195814185
+p_g err: 0.0706901952
+f_binary: 7920 	 f_binary0: 7947 
+f_binary_feas: 0.0004329966 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3424 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001871945 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0483418538	 L2_std:0.0254325970	 L_inf mean:0.1292700364	 p5:0.0202146352	 p95:0.0980061740
+p_g err: 0.0298591494
+f_binary: 9797 	 f_binary0: 7947 
+f_binary_feas: 0.0005356146 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 4283 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002341571 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0452502801	 L2_std:0.0221200616	 L_inf mean:0.1182781645	 p5:0.0194132825	 p95:0.0914223272
+p_g err: 0.0278047313
+f_binary: 8323 	 f_binary0: 7947 
+f_binary_feas: 0.0004550291 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3174 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001735267 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0491060500	 L2_std:0.0248325100	 L_inf mean:0.1309446143	 p5:0.0211539849	 p95:0.0979298260
+p_g err: 0.0294914889
+f_binary: 7896 	 f_binary0: 7947 
+f_binary_feas: 0.0004316845 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2862 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001564692 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0456992748	 L2_std:0.0219412502	 L_inf mean:0.1206931931	 p5:0.0202692930	 p95:0.0898706917
+p_g err: 0.0275668413
+f_binary: 7648 	 f_binary0: 7947 
+f_binary_feas: 0.0004181260 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2625 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001435121 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0477552859	 L2_std:0.0271198667	 L_inf mean:0.1248430286	 p5:0.0196822126	 p95:0.0960449073
+p_g err: 0.0283343416
+f_binary: 8144 	 f_binary0: 7947 
+f_binary_feas: 0.0004452430 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2828 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001546104 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0460229349	 L2_std:0.0225376490	 L_inf mean:0.1211159622	 p5:0.0197297604	 p95:0.0904285114
+p_g err: 0.0265689633
+f_binary: 7999 	 f_binary0: 7947 
+f_binary_feas: 0.0004373156 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2862 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001564692 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.2510708500	 L2_std:0.0473441985	 L_inf mean:0.6364370173	 p5:0.1691045366	 p95:0.3297890767
+p_g err: 0.1291759368
+f_binary: 8250 	 f_binary0: 7947 
+f_binary_feas: 0.0004510381 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 4036 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002206533 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0454964800	 L2_std:0.0219133024	 L_inf mean:0.1217139977	 p5:0.0199056531	 p95:0.0864364449
+p_g err: 0.0276641399
+f_binary: 7969 	 f_binary0: 7947 
+f_binary_feas: 0.0004356755 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2883 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001576173 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0464267167	 L2_std:0.0207692517	 L_inf mean:0.1208058504	 p5:0.0207316290	 p95:0.0879857264
+p_g err: 0.0256862121
+f_binary: 7207 	 f_binary0: 7947 
+f_binary_feas: 0.0003940160 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2341 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001279855 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.5760348594	 L2_std:0.0980421313	 L_inf mean:0.8111442231	 p5:0.4134236768	 p95:0.7393714875
+p_g err: 0.3803281317
+f_binary: 10829 	 f_binary0: 7947 
+f_binary_feas: 0.0005920354 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 6232 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0003407115 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0481122774	 L2_std:0.0252815089	 L_inf mean:0.1322573151	 p5:0.0207018746	 p95:0.0906539559
+p_g err: 0.0270664543
+f_binary: 8331 	 f_binary0: 7947 
+f_binary_feas: 0.0004554665 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3225 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001763149 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0463633934	 L2_std:0.0232461749	 L_inf mean:0.1239859324	 p5:0.0207116603	 p95:0.0922613226
+p_g err: 0.0285459835
+f_binary: 10032 	 f_binary0: 7947 
+f_binary_feas: 0.0005484624 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 4545 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002484810 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.2376499101	 L2_std:0.0442021787	 L_inf mean:0.6417097113	 p5:0.1629161373	 p95:0.3097680241
+p_g err: 0.1157990230
+f_binary: 7452 	 f_binary0: 7947 
+f_binary_feas: 0.0004074105 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3231 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001766429 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.3131491459	 L2_std:0.0492200128	 L_inf mean:0.6837168415	 p5:0.2304236367	 p95:0.3952833787
+p_g err: 0.1705509719
+f_binary: 8599 	 f_binary0: 7947 
+f_binary_feas: 0.0004701184 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 4640 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002536748 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.5228166107	 L2_std:0.0463465965	 L_inf mean:0.8107106862	 p5:0.4431586370	 p95:0.5960957497
+p_g err: 0.3221821809
+f_binary: 4532 	 f_binary0: 7947 
+f_binary_feas: 0.0002477703 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3350 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001831488 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0456520419	 L2_std:0.0221675522	 L_inf mean:0.1186631958	 p5:0.0196872567	 p95:0.0925375540
+p_g err: 0.0265526602
+f_binary: 7555 	 f_binary0: 7947 
+f_binary_feas: 0.0004130416 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2548 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001393024 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.8411407938	 L2_std:0.0873867669	 L_inf mean:0.9461871071	 p5:0.7083180338	 p95:0.9850377589
+p_g err: 0.6876204075
+f_binary: 200092 	 f_binary0: 7947 
+f_binary_feas: 0.0109392878 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 142830 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0078087003 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.9249837797	 L2_std:0.0540592828	 L_inf mean:0.9834608623	 p5:0.8420767218	 p95:1.0060893059
+p_g err: 0.8357213980
+f_binary: 392339 	 f_binary0: 7947 
+f_binary_feas: 0.0214496792 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 295494 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0161550382 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.3291570009	 L2_std:0.1045461892	 L_inf mean:0.7052681116	 p5:0.1675583720	 p95:0.5137652695
+p_g err: 0.1859808995
+f_binary: 11537 	 f_binary0: 7947 
+f_binary_feas: 0.0006307427 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 7420 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0004056610 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0474995060	 L2_std:0.0247923587	 L_inf mean:0.1280064661	 p5:0.0197878961	 p95:0.0952592243
+p_g err: 0.0271674868
+f_binary: 7705 	 f_binary0: 7947 
+f_binary_feas: 0.0004212423 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 2761 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001509474 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0481412084	 L2_std:0.0228955137	 L_inf mean:0.1235035157	 p5:0.0214242921	 p95:0.0958164521
+p_g err: 0.0290788411
+f_binary: 8884 	 f_binary0: 7947 
+f_binary_feas: 0.0004856997 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3466 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001894907 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0456463548	 L2_std:0.0212211095	 L_inf mean:0.1190612785	 p5:0.0194931999	 p95:0.0874974560
+p_g err: 0.0272896639
+f_binary: 8893 	 f_binary0: 7947 
+f_binary_feas: 0.0004861918 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3426 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001873038 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0457286457	 L2_std:0.0215720735	 L_inf mean:0.1184072695	 p5:0.0193446399	 p95:0.0893959787
+p_g err: 0.0266364761
+f_binary: 8637 	 f_binary0: 7947 
+f_binary_feas: 0.0004721959 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3334 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001822741 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0456740979	 L2_std:0.0211367203	 L_inf mean:0.1227856797	 p5:0.0199262016	 p95:0.0876199838
+p_g err: 0.0251527709
+f_binary: 8146 	 f_binary0: 7947 
+f_binary_feas: 0.0004453523 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3078 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001682782 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.1428213136	 L2_std:0.0383306278	 L_inf mean:0.5553542700	 p5:0.0855542105	 p95:0.2093250647
+p_g err: 0.0599000212
+f_binary: 9221 	 f_binary0: 7947 
+f_binary_feas: 0.0005041240 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 4280 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0002339931 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0463319850	 L2_std:0.0224175729	 L_inf mean:0.1248471644	 p5:0.0201121901	 p95:0.0902629096
+p_g err: 0.0279246311
+f_binary: 8673 	 f_binary0: 7947 
+f_binary_feas: 0.0004741641 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3336 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001823834 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0478205343	 L2_std:0.0255202094	 L_inf mean:0.1282175028	 p5:0.0202020176	 p95:0.0936059345
+p_g err: 0.0278567832
+f_binary: 8438 	 f_binary0: 7947 
+f_binary_feas: 0.0004613163 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3231 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001766429 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.1286976590	 L2_std:0.0294892550	 L_inf mean:0.5606594684	 p5:0.0865045704	 p95:0.1813600354
+p_g err: 0.0491578505
+f_binary: 8450 	 f_binary0: 7947 
+f_binary_feas: 0.0004619724 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3557 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001944658 	 f_binary0_soft_feas: 0.0000015855 
+Tesla V100-PCIE-16GB
+L2 mean:0.0457025753	 L2_std:0.0214364828	 L_inf mean:0.1207468359	 p5:0.0203895329	 p95:0.0875621509
+p_g err: 0.0258730592
+f_binary: 8126 	 f_binary0: 7947 
+f_binary_feas: 0.0004442589 	 f_binary0_feas: 0.0004344727 
+f_binary_soft: 3085 	 f_binary0_soft: 29 
+f_binary_soft_feas: 0.0001686609 	 f_binary0_soft_feas: 0.0000015855 
