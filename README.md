@@ -8,7 +8,7 @@ PGLibOPF: https://github.com/power-grid-lib/pglib-opf
 
 More details could be found in the manuscripts recently accepted by IEEE Transactions on Power Systems.\
 "Topology-aware Graph Neural Networks for Learning Feasible and Adaptive ac-OPF Solutions":\
-https://ieeexplore.ieee.org/document/9992121
+https://ieeexplore.ieee.org/document/9992121 \
 The journal version manuscript on arXiv:\
 https://arxiv.org/abs/2205.10129
 
